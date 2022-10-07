@@ -1,0 +1,135 @@
+
+#button{
+    border:2px solid black;
+}
+#last{
+    margin: 14px 25px 0 -43px;
+}
+.shama1{
+    color: #FF4415;
+    }   
+    .shama{
+        color:#EEAC82;
+    }
+#container{
+    width: 800px;
+    border: 1px solid rgb(155, 151, 151);
+}
+/* #strip{
+    border-radius: 2px;
+} */
+
+
+
+
+
+ /* body{ */
+    /* font-family: 'Poppins', sans-serif; */
+    /* font-size: 15px; 
+    margin: 10px;
+    padding: 10px;
+    height: 90%;
+    width: 65%;
+
+}
+.container{
+    background-color: white;
+    border: 2px solid #0e0c0c;
+    padding: 5px;
+    margin: 10px;
+    width: 60%;
+}
+table{
+    
+    text-align: center;
+    /* left: 0; */
+    /* top: 0; */
+    /* border-collapse:collapse ; */
+    /* border-spacing: 0;
+    
+       
+     overflow: hidden; 
+     padding: 5px;
+    }
+    tr:nth-child(even){
+        background-color:#F1F1F1;
+        
+
+    }
+    #pur{
+        border-radius: 5px;
+    }
+    #sub{
+      padding: 10px;  
+    }
+
+
+
+    
+
+.shama{
+    color:#EEAC82;
+}
+.shama1{
+color: #FF4415;
+}
+  .hori{ 
+    background-color:#F6F8FA;
+text-align: left;
+    height: 10px;
+    width: 90%;
+    border-radius: 5px;
+
+} 
+@media all and (max-width:425px) and (min-width:320px){
+    body{
+        font-family: 'Poppins', sans-serif;
+        font-size: 15px;
+        margin: 10px;
+        padding: 10px;
+        height: 90%;
+        width: 2000px;
+    
+    }
+    .container{
+        background-color: white;
+        border: 2px solid #0e0c0c;
+        padding: 5px ;
+        margin: 10px;
+        width: 2650px;
+    }
+    table{
+        
+        text-align: center;
+        /* left: 0; */
+        /* top: 0; */
+        /* border-collapse:collapse ; */
+        /* border-spacing: 0;
+        overflow: hidden; 
+         padding: 5px;
+        }
+        tr:nth-child(even){
+            background-color:#F1F1F1;
+
+        }
+        #pur{
+            border-radius: 5px;
+        }
+        #sub{
+          padding: 10px;  
+        } */
+    /* .shama{
+        color:#EEAC82;
+    }
+    .shama1{
+    color: #FF4415;
+    }
+      .hori{ 
+        background-color:#F6F8FA;
+        text-align: left;
+        height: 10px;
+        width: 90%;
+        border-radius: 5px;
+    
+    }
+} */
